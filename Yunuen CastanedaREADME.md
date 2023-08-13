@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @YslandFrog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YslandFrog/YslandFrog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi, I’m @YslandFrog!
+ & my name is Yunuen M. Castaneda
+ I am a visual artist who specializes in storyboarding, character design, concept art, photography, and traditional mediums such as sketches and acrylic paint.
+ 
